@@ -28,6 +28,15 @@
 ||r7---sn-npoeened.googlevideo.com^
 ||r8---sn-npoeened.googlevideo.com^
 ||r9---sn-npoeened.googlevideo.com^
+||rr1---sn-npoeened.googlevideo.com^
+||rr2---sn-npoeened.googlevideo.com^
+||rr3---sn-npoeened.googlevideo.com^
+||rr4---sn-npoeened.googlevideo.com^
+||rr5---sn-npoeened.googlevideo.com^
+||rr6---sn-npoeened.googlevideo.com^
+||rr7---sn-npoeened.googlevideo.com^
+||rr8---sn-npoeened.googlevideo.com^
+||rr9---sn-npoeened.googlevideo.com^
 
 ||r1---sn-npoeenl7.googlevideo.com^
 ||r2---sn-npoeenl7.googlevideo.com^
@@ -68,6 +77,15 @@
 ||r7---sn-npoe7ney.googlevideo.com^
 ||r8---sn-npoe7ney.googlevideo.com^
 ||r9---sn-npoe7ney.googlevideo.com^
+||rr1---sn-npoe7ney.googlevideo.com^
+||rr2---sn-npoe7ney.googlevideo.com^
+||rr3---sn-npoe7ney.googlevideo.com^
+||rr4---sn-npoe7ney.googlevideo.com^
+||rr5---sn-npoe7ney.googlevideo.com^
+||rr6---sn-npoe7ney.googlevideo.com^
+||rr7---sn-npoe7ney.googlevideo.com^
+||rr8---sn-npoe7ney.googlevideo.com^
+||rr9---sn-npoe7ney.googlevideo.com^
 
 ||r1---sn-npoe7ne6.googlevideo.com^
 ||r2---sn-npoe7ne6.googlevideo.com^
