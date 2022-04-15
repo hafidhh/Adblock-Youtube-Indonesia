@@ -2,6 +2,12 @@
 ||yt2.ggpht.com^
 ||yt3.ggpht.com^
 ||yt4.ggpht.com^
+||r1---sn-npoe7n7r.googlevideo.com^
+||r2---sn-npoe7n7r.googlevideo.com^
+||r3---sn-npoe7n7r.googlevideo.com^
+||r4---sn-npoe7n7r.googlevideo.com^
+||r5---sn-npoe7n7r.googlevideo.com^
+||r6---sn-npoe7n7r.googlevideo.com^
 ||r1---sn-npoe7ney.googlevideo.com^
 ||r2---sn-npoe7ney.googlevideo.com^
 ||r3---sn-npoe7ney.googlevideo.com^
